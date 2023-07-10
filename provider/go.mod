@@ -290,3 +290,5 @@ require (
 	golang.org/x/tools v0.7.0 // indirect
 	lukechampine.com/frand v1.4.2 // indirect
 )
+
+replace k8s.io/cli-runtime => github.com/cbley-da/cli-runtime v0.0.0-20230710195249-bbf78f9f19d4
